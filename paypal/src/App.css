@@ -28,3 +28,11 @@
   background: #61dafb;
 }
 
+.payment-div {
+  padding-top: 20px;
+  height: 300px;
+  width: 300px;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 20px;
+}
+
